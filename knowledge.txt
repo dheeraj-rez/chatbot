@@ -1,0 +1,439 @@
+# Udyog Plus — Loan Products Documentation
+**Last updated:** August 13, 2025 | **Source:** Udyog Plus (Aditya Birla Capital)
+
+> Purpose: As a business owner, understand all loan types offered via Udyog Plus with clear details on features, eligibility, benefits, documents, and application steps.
+
+---
+
+## 1) Product Matrix (At a Glance)
+
+| Product | Secured? | Stated Ticket Size / Limits | Typical Tenure | Collateral | Key Notes |
+|---|---|---|---|---|---|
+| **Business Loan (Unsecured)** | No | **Up to ₹2 lakh** with *zero documentation*; unsecured up to **₹10 lakh** (minimal docs); collateral‑free limits up to **₹15 lakh** (per FAQ) | **12–36 months** | Not required | 100% digital flow; fast approval & disbursal. [[BL]](#business-loan-unsecured) |
+| **Instant Business Loan** | Usually No | Indicative: instant journey aligns with **up to ₹2 lakh no‑doc** and **up to ₹10 lakh** minimal‑doc journeys | **12–36 months** | Not required | Rapid decisioning; minimal paperwork. [[IBL]](#instant-business-loan) |
+| **Loan Against Property (LAP)** | Yes | Up to **₹75 crore**; **LTV:** up to 70% (residential), up to 60% (commercial) | **Up to 15 years** | Property mortgage | Longer tenure; large ticket; competitive rates. [[LAP]](#loan-against-property-lap) |
+| **Loan Against Mutual Funds (LAMF)** | Yes | Liquidity against MF units (overdraft-style) | Shorter-tenure OD | MF units pledged (lien) | Keep investments; pay interest on usage; digital pledge flow via registrars. [[LAMF]](#loan-against-mutual-funds-lamf) |
+| **Personal Loan (PL)** | No | **Up to ₹5 lakh** | **12–60 months** | Not required | Instant digital journey; APR illustration 10.99%–30.00%; processing fee up to 2%. [[PL]](#personal-loan-pl) |
+
+> **Rates & amounts are profile‑based and subject to change by the lender.** Always refer to live product pages linked in each section.
+
+---
+
+## 2) Product Details
+
+### Business Loan (Unsecured)
+**What it is:** Working‑capital / growth funding with fast, digital processing and flexible tenure.**Who it’s for:** Proprietorships, Partnerships, Pvt Ltd, LLP, MSMEs.**Site highlights:** *Up to ₹2 lakh* with **zero documentation**; *unsecured up to ₹10 lakh* with minimal docs; **collateral‑free** limits up to *₹15 lakh*; **12–36 months** tenure.
+
+**Key Features**
+- Collateral‑free up to ₹15 lakh (eligibility‑based)
+- Quick online application; fast approval & disbursal
+- Tenure flexibility: 12–36 months
+- Part‑payment/foreclosure as per policy
+
+**Eligibility (indicative)**
+- Age: 21–65; Business vintage: ~≥1 year
+- CIBIL: around **650+** (higher preferred)
+- Consistent turnover & bank statement health
+- Registered business entity
+
+**Documents (requested as needed)**
+- KYC: PAN, Aadhaar; Address proof
+- Business proof: Registration/GST
+- Financials: Bank statements; ITR/financials based on amount
+
+**Benefits**
+- Preserves working capital; builds credit history
+- 100% digital journey; minimal friction
+- Collateral not required for unsecured tiers
+
+**Application Steps**
+1. Start application on Udyog Plus Business Loan page.
+2. Enter business & KYC details; consent & OTP.
+3. Upload requested docs (above ₹2 lakh).
+4. Get offer → accept terms → e‑sign → disbursal.
+
+**References**
+- Udyog Plus — *Business Loan* page (no‑doc up to ₹2L; minimal docs above ₹2L).   https://udyogplus.adityabirlacapital.com/business-loan
+- Udyog Plus — *FAQ snippet* (collateral‑free up to ₹15L; tenure 12–36 months; CIBIL guidance).   https://udyogplus.adityabirlacapital.com/business-loan
+- Udyog Plus — *Signup/Features* (no‑doc up to ₹2L; unsecured up to ₹10L; 100% digital).   https://udyogplus.adityabirlacapital.com/signup-campaign
+
+---
+
+### Instant Business Loan
+**What it is:** Rapid, minimal‑paperwork funding for urgent needs via a fully digital flow.
+
+**Key Features**
+- Instant approval journey; quick disbursal
+- Minimal documentation
+- No collateral required for unsecured tiers
+
+**Eligibility & Documents**
+- Similar to Business Loan; lender may require bank statements/ITR based on ticket size.
+
+**Application Steps**
+1. Apply online on the **Instant Business Loan** page.
+2. Complete KYC & basic details.
+3. Upload minimal docs if prompted.
+4. Receive decision and disbursal to business account.
+
+**References**
+- Udyog Plus — *Instant Business Loan* page.   https://udyogplus.adityabirlacapital.com/instant-business-loan
+- Udyog Plus — *Signup/Features* (no‑doc/up to ₹2L; unsecured up to ₹10L).   https://udyogplus.adityabirlacapital.com/signup-campaign
+
+---
+
+### Loan Against Property (LAP)
+**What it is:** Secured loan by mortgaging residential/commercial/industrial property for large & long‑tenure needs.
+
+**Key Features (ABCL site)** 
+- **Tenure:** up to **15 years**
+- **Max amount:** up to **₹75 crore**
+- **LTV:** up to **70%** (residential), **60%** (commercial)
+- Attractive LAP interest rates; digital services
+
+**Eligibility & Documents (indicative)**
+- Age: 21–65; viable income profile
+- Property ownership & clear title
+- KYC (PAN, Aadhaar), ITR/salary slips, bank statements
+- Property docs as per policy; valuation & legal checks
+
+**Application Steps**
+1. Start LAP application (via ABCL LAP page) or through Udyog Plus flow.
+2. Provide applicant & property details; upload docs.
+3. Valuation & credit appraisal → sanction → mortgage creation → disbursal.
+
+**References**
+- ABCL — *Loan Against Property* (features, LTV, tenure, amounts).   https://www.adityabirlacapital.com/loans/loan-against-property
+
+> *Note:* LAP is serviced by ABCL/Aditya Birla Housing Finance; Udyog Plus surfaces/links the product in its “Finance your business” section.
+
+---
+
+### Loan Against Mutual Funds (LAMF)
+**What it is:** Overdraft‑style facility by pledging mutual fund units (lien marked via registrar), giving liquidity without redeeming investments.
+
+**Key Features (ABCL site)**
+- Immediate liquidity against MF units you own
+- Overdraft for short‑term needs; interest charged on utilization
+- Digital lien marking through registrars (e.g., CAMS/KFintech)
+
+**Eligibility & Documents (indicative)**
+- KYC‑compliant investor; eligible MF schemes as per policy
+- Pledge/lien creation on MF units; standard KYC/agreements
+
+**Application Steps**
+1. Initiate LAMF request on ABCL LAMF page (or via Udyog Plus > Loan Against Securities).
+2. Complete KYC and select eligible MF units.
+3. Registrar marks lien → limit set → drawdown as needed.
+
+**References**
+- ABCL — *Loan Against Mutual Funds* (what it is; lien process; OD nature).   https://www.adityabirlacapital.com/loans/loan-against-securities/loan-against-mutual-funds
+- ABCL — *Loan Against Securities* FAQ hub.   https://www.adityabirlacapital.com/loans/loan-against-securities/faqs
+
+---
+
+### Personal Loan (PL)
+**What it is:** Unsecured personal loan suitable for business owners needing fast personal liquidity.
+
+**Key Features (Udyog Plus flow)**
+- **Loan amount:** up to **₹5 lakh**
+- **Tenure:** **12–60 months**
+- **APR illustration:** **10.99%–30.00%**
+- **Processing Fee:** up to **2%** (incl. GST) — per illustration on application page
+
+**Eligibility & Documents (indicative)**
+- Age, income, bureau as per policy
+- KYC (PAN, Aadhaar), bank statements, etc.
+
+**Application Steps**
+1. Start on Udyog Plus **Personal Loan** page → Apply.
+2. Enter KYC & personal details; OTP verification.
+3. Get offer → accept → e‑sign → disbursal.
+
+**References**
+- Udyog Plus — *Personal Loan* page.   https://udyogplus.adityabirlacapital.com/personalloan
+- Udyog Plus — *Personal Loan* application flow (APR/tenure/fees illustration).   https://udyogplus.adityabirlacapital.com/signup-cobranded?journey=pl&url=%2F
+
+---
+
+## 3) Standard Document Checklist (By Ticket Size)
+
+**Up to ₹2 lakh (no‑doc journey)**
+- Digital KYC & basic details (PAN, Aadhaar, OTP consent)
+- Bank account verification
+
+**Above ₹2 lakh to ₹10/15 lakh (minimal docs)**
+- KYC: PAN, Aadhaar, Address proof
+- Business proof: GST/registration, shop & establishment (as applicable)
+- Financials: Latest bank statements (6–12 months), ITRs/financials (as requested)
+- Additional docs if secured loans (property/MF) are chosen
+
+> Final documentation is case‑by‑case per underwriting policy.
+
+---
+
+## 4) Fees, Interest & Repayment Notes
+- **Interest rate type:** Flat vs. reducing‑balance; most SME loans follow reducing balance.  See Udyog Plus explainer on rate types & factors.
+- **Processing fee:** As per product; **PL illustration shows up to 2% (incl. GST)**.
+- **Repayment:** EMI monthly; OD interest on utilized amount for LAMF.
+- **Prepayment/Foreclosure:** Allowed as per product T&Cs; charges may apply.
+- **Part‑payment:** Supported on business loans (policy‑based).
+
+**References**
+- Udyog Plus — *Business Loan Interest Rates* explainer.   https://udyogplus.adityabirlacapital.com/business-loan/business-loan-interest-rates
+- Udyog Plus — *Personal Loan* APR/fee illustration.   https://udyogplus.adityabirlacapital.com/signup-cobranded?journey=pl&url=%2F
+
+---
+
+## 5) How to Choose the Right Loan (Quick Guide)
+- **Need speed & low ticket:** *Instant/Business Loan* (no‑doc up to ₹2L), minimal docs up to ₹10–15L.
+- **Need large ticket/long tenure:** *LAP* (secured; up to 15 years).
+- **Want liquidity without selling investments:** *LAMF* (OD against MF units).
+- **Personal expenses or flexible use:** *Personal Loan*.
+
+---
+
+## 6) Useful Hubs
+- **Finance Your Business (Udyog Plus hub):** https://udyogplus.adityabirlacapital.com/finance-your-business
+- **Business Loan:** https://udyogplus.adityabirlacapital.com/business-loan
+- **Instant Business Loan:** https://udyogplus.adityabirlacapital.com/instant-business-loan
+- **Business Loan Interest Rates (explainer):** https://udyogplus.adityabirlacapital.com/business-loan/business-loan-interest-rates
+- **Personal Loan:** https://udyogplus.adityabirlacapital.com/personalloan
+- **Loan Against Property (ABCL):** https://www.adityabirlacapital.com/loans/loan-against-property
+- **Loan Against Mutual Funds (ABCL):** https://www.adityabirlacapital.com/loans/loan-against-securities/loan-against-mutual-funds
+
+---
+
+### Disclaimer
+This document summarizes product information visible on Udyog Plus/ABCL public pages at the time of writing. **Actual eligibility, limits, documentation, interest rates, fees, and terms are determined by the lender after credit appraisal and may change without notice.** Please refer to live pages above when you apply.
+
+
+# Udyog Plus — Loan FAQs (60)
+**Last updated:** August 13, 2025  
+**Scope:** Business Loan, Instant Business Loan, Loan Against Property (LAP), Loan Against Mutual Funds (LAMF), Personal Loan.  
+**Note:** Answers are concise and intended for website help centers, chatbots, and internal handbooks. Actual eligibility, limits, and pricing are subject to lender policy and credit appraisal.
+
+---
+
+## A) General & Platform (1–8)
+
+1) **What is Udyog Plus?**  
+Udyog Plus is Aditya Birla Capital’s digital platform that helps businesses and individuals discover and apply for loans online.
+
+2) **Which loan types are available on Udyog Plus?**  
+Business Loan, Instant Business Loan, Loan Against Property (LAP), Loan Against Mutual Funds (LAMF), and Personal Loan.
+
+3) **Who can apply on Udyog Plus?**  
+Eligible Indian residents, self‑employed professionals, and registered businesses meeting policy criteria.
+
+4) **Is the application fully online?**  
+Yes. Most journeys are digital; some secured loans may require physical verification/valuation.
+
+5) **Do I need to visit a branch?**  
+Usually not for unsecured loans. For secured loans (e.g., LAP), property valuation/legal checks may need offline steps.
+
+6) **Is Udyog Plus available across India?**  
+Yes, subject to partner/lender serviceability in your city and pin‑code.
+
+7) **Can I compare multiple loan options?**  
+Yes. You can review pre‑qualified offers and choose the most suitable product and tenure.
+
+8) **Is there customer support if I get stuck?**  
+Yes. You’ll find support options within the application journey or help sections.
+
+---
+
+## B) Eligibility (9–14)
+
+9) **What is the minimum age to apply?**  
+Typically 21 years at application and up to 65 years at loan maturity (product‑wise variations may apply).
+
+10) **What credit score is required?**  
+Policies vary, but a CIBIL score of ~650+ generally improves eligibility and pricing.
+
+11) **Do I need a minimum business vintage?**  
+For business loans, ~1 year of operations is commonly expected; higher vintage strengthens the case.
+
+12) **Is a minimum turnover required?**  
+Yes, lenders assess recent turnover/bank statements; thresholds vary by product and ticket size.
+
+13) **Can new businesses or startups apply?**  
+Yes, but approval depends on vintage, cashflows, and bureau profile; early‑stage profiles may qualify for lower ticket sizes.
+
+14) **Are proprietorships, partnerships, LLPs, and Pvt Ltd eligible?**  
+Yes, registered MSMEs and companies can apply, subject to policy.
+
+---
+
+## C) Documents & KYC (15–22)
+
+15) **Which KYC documents are accepted?**  
+PAN, Aadhaar, and address proof (as per lender KYC norms).
+
+16) **What business documents are required?**  
+GST or registration proof, shop & establishment (as applicable), partnership deed/MOA/AOA for entities.
+
+17) **Do I need bank statements?**  
+Yes, generally 6–12 months of statements for underwriting.
+
+18) **Are ITRs required?**  
+For higher ticket sizes, recent ITRs/financials are typically requested.
+
+19) **What if I’m applying for a small, instant loan?**  
+Certain no‑doc/min‑doc journeys may exist up to specified limits; KYC and basic checks still apply.
+
+20) **Do I need collateral documents?**  
+Only for secured loans (e.g., property papers for LAP, MF statement/folio details for LAMF).
+
+21) **Can I upload documents digitally?**  
+Yes, via secure upload within the application flow.
+
+22) **Are scanned copies sufficient?**  
+High‑quality scans or photos are acceptable; the lender may request originals for verification.
+
+---
+
+## D) Application Process & Verification (23–30)
+
+23) **How do I start the application?**  
+Choose the loan product on Udyog Plus, click “Apply,” complete KYC/basic details, and proceed.
+
+24) **How long does approval take?**  
+Instant journeys provide quick decisions; others depend on document review and underwriting.
+
+25) **How is my eligibility evaluated?**  
+Based on KYC, credit bureau, income/turnover, bank statements, and (for secured loans) collateral valuation.
+
+26) **What is e‑NACH/e‑mandate?**  
+An electronic mandate allowing monthly EMI auto‑debits from your bank account.
+
+27) **When will I receive the money?**  
+Post‑approval and agreement/signing, funds are disbursed to your registered bank account.
+
+28) **Can I track my application status?**  
+Yes, you’ll receive updates via SMS/email; some journeys provide a status tracker.
+
+29) **What if my application is rejected?**  
+You may re‑apply after addressing reasons (e.g., low score, thin banking) or consider another product/ticket size.
+
+30) **Can I pause and resume an application?**  
+Yes, for many journeys you can resume with your registered mobile/email login.
+
+---
+
+## E) Business Loan (Unsecured) (31–36)
+
+31) **What is the Business Loan on Udyog Plus?**  
+Unsecured funding for working capital, inventory, marketing, or expansion.
+
+32) **How much can I borrow?**  
+Indicatively up to ₹2 lakh via no‑doc journeys; minimal‑doc tiers can go higher (e.g., up to ~₹10–15 lakh), subject to policy.
+
+33) **What is the tenure?**  
+Typically 12–36 months for unsecured business loans.
+
+34) **Is collateral required?**  
+Not for unsecured tiers; higher amounts may have stricter documentation.
+
+35) **Can I part‑prepay?**  
+Often allowed as per product T&Cs; charges may apply.
+
+36) **What affects my interest rate?**  
+Credit score, business performance, banking, and overall risk profile.
+
+---
+
+## F) Instant Business Loan (37–41)
+
+37) **How is Instant Business Loan different?**  
+Faster decisioning with minimal steps; designed for urgent, lower‑ticket needs.
+
+38) **Is it collateral‑free?**  
+Yes, typically unsecured up to defined limits.
+
+39) **Are documents required?**  
+Basic KYC always; bank statements/financials may be requested based on ticket size.
+
+40) **How quickly is it disbursed?**  
+Often on the same day after approval and agreement completion.
+
+41) **Can I increase the limit later?**  
+Possible after satisfactory repayment history and updated eligibility.
+
+---
+
+## G) Loan Against Property (LAP) (42–46)
+
+42) **What is LAP?**  
+A secured loan against residential/commercial property for higher amounts with longer tenure.
+
+43) **What tenure is available?**  
+Typically up to ~15 years, subject to assessment.
+
+44) **How is eligibility assessed for LAP?**  
+Based on income, credit profile, property valuation, legal checks, and LTV norms.
+
+45) **What property documents are needed?**  
+Title documents, chain of ownership, sanctioned plans/approvals, tax receipts, and other lender‑specified papers.
+
+46) **When is disbursal done in LAP?**  
+After valuation, legal clearance, sanction, documentation, and mortgage creation.
+
+---
+
+## H) Loan Against Mutual Funds (LAMF) (47–52)
+
+47) **What is LAMF?**  
+An overdraft/credit line against pledged mutual fund units, letting you access liquidity without selling.
+
+48) **How does interest work in LAMF?**  
+Interest is charged on the utilised amount, not the full limit.
+
+49) **Which mutual funds are eligible?**  
+Eligible schemes as per lender/registrar lists; final eligibility is confirmed during the pledge journey.
+
+50) **How is the lien/pledge created?**  
+Digitally via registrar (e.g., CAMS/KFintech); units are marked under lien till repayment.
+
+51) **Can I redeem MF units while LAMF is active?**  
+Only after releasing lien; partial release may be possible if limits allow.
+
+52) **What happens if MF value falls?**  
+You may need to top‑up margin or reduce utilisation per terms.
+
+---
+
+## I) Personal Loan (53–57)
+
+53) **Who should choose a Personal Loan?**  
+Individuals needing quick, unsecured funds for personal expenses or small business needs.
+
+54) **What amounts and tenure are typical?**  
+Amounts up to around ₹5 lakh with 12–60 months tenure (offer varies by profile).
+
+55) **What are indicative charges?**  
+APR and processing fees are profile‑based; sample journeys may show APR bands and up to ~2% processing fee.
+
+56) **Is income proof mandatory?**  
+Yes, lenders assess income stability through statements/ITR/salary slips.
+
+57) **Can I foreclose a Personal Loan?**  
+Usually yes, with applicable foreclosure charges as per T&Cs.
+
+---
+
+## J) Rates, Fees & Repayment (58–60)
+
+58) **How are interest rates decided?**  
+Risk‑based pricing considering bureau score, cashflows, banking patterns, and product type.
+
+59) **What fees should I expect?**  
+Processing fee, documentation/valuation (for secured), late payment charges, foreclosure/part‑payment charges as per schedule.
+
+60) **How are EMIs paid?**  
+Via e‑NACH/e‑mandate auto‑debit from your registered bank account on the due date.
+
+---
+
+### Disclaimer
+This FAQ is a general guide. **All approvals, amounts, pricing, documents, and T&Cs are subject to lender policies and may change without notice.** Always refer to the live Udyog Plus product pages for current details.
